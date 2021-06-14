@@ -16,3 +16,8 @@ ui5 init
 3. Download the manifest file from my github.
 For documentation, follow here -
 https://sap.github.com/ui5-tooling/pages/GettingStarted/
+
+To run hello world app in local host run below command.
+```
+ui5 serve
+```
